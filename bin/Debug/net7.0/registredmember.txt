@@ -1,0 +1,12 @@
+Username: knatte
+Password: 123
+Membership Level: gold
+Username: fnatte
+Password: 123
+Membership Level: silver
+Username: tjatte
+Password: 123
+Membership Level: bronze
+Username: kalle
+Password: 123
+Membership Level: regular
